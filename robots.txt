@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mocktailengineer.github.io/sitemap.xml
+Host: https://mocktailengineer.github.io
