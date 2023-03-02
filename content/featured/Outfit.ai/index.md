@@ -2,8 +2,8 @@
 date: '1'
 title: 'Outfit.ai'
 cover: './outfit-ai.png'
-github: 
-external:
+github: 'https://github.com/MocktaiLEngineer/Outfit.ai'
+external: 'https://github.com/MocktaiLEngineer/Outfit.ai'
 tech:
   - Flask
   - Python

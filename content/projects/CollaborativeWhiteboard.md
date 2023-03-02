@@ -1,8 +1,8 @@
 ---
-date: '2022-01-01'
+date: '2022-02-02'
 title: 'Collaborative Whiteboard'
 github: 'https://github.com/MocktaiLEngineer/Collaborative-Whiteboard'
-external: 
+external:
 tech:
   - Node.js
   - Socket.io
